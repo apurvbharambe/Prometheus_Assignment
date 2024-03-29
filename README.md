@@ -21,7 +21,7 @@ Checked the existence and correctness of ConfigMaps and Secrets referenced in th
 ## Networking Issues:
 
 Issue: Connection timeout
-If there are network connectivity issues between Prometheus, Grafana, and other components in the cluster, you might encounter connection timeouts or errors.
+If there are network connectivity issues between Prometheus, Grafana, and other components in the cluster, we encounter connection timeouts or errors.
 Solution:
 Verified network connectivity between Prometheus, Grafana, and their respective targets using command like ping, or curl.
 Check for network policies or firewall rules blocking communication between the components.
