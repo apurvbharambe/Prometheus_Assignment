@@ -1,5 +1,7 @@
 # Errors encountered and Solutions:
 
+
+
 ## Configuration Errors:
 
 Issue: Invalid YAML configuration (crash loop back)
