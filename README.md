@@ -1,6 +1,4 @@
-
-
-# Error Encountered:
+# Errors encountered and Solutions:
 
 ## Configuration Errors:
 
