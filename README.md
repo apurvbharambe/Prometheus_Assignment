@@ -31,7 +31,7 @@ Check for network policies or firewall rules blocking communication between the 
 
 No Data Displayed on Grafana Dashboard:
 
-  Even after adding a data source, no metrics were visible on the Grafana dashboard.
+Even after adding a data source, no metrics were visible on the Grafana dashboard.
 
-  - Resolution: Review the queries configured in Grafana and ensure they match the available metrics. Adjust queries as needed to align with the metrics being collected, enabling data visualization on the Grafana dashboard.
+Solution: Review the queries configured in Grafana and ensure they match the available metrics. Adjust queries as needed to align with the metrics being collected, enabling data visualization on the Grafana dashboard.
     
